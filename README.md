@@ -12,12 +12,12 @@
 
   <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-discovery">
 
-  <a href="https://github.com/grioos/README-proffy-discovery/commits/master">
+  <a href="https://github.com/bielhoks/Next-Level-Week-2/commits/master">
     <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy-discovery?color=%4d0000">
   </a>
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
-   <a href="https://github.com/grioos/proffy-discovery/stargazers">
+   <a href="https://github.com/bielhoks/Next-Level-Week-2/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy-discovery?style=social">
   </a>
 
