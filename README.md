@@ -1,67 +1,136 @@
 
+<h1 align="center" >
+    <img alt="Logo Proffy" src="/public/images/logo.png" />
+</h1>
+
+<h3 align="center">
+    📖 Sua plataforma de estudos online
+</h3>
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/e374677bcea8e624fe954b1bf81348f9bb4390df/68747470733a2f2f696b2e696d6167656b69742e696f2f6361706974616f2f50726f6666792f6e6c77325f36643750766c485a352e737667" width="150" data-canonical-src="https://ik.imagekit.io/capitao/Proffy/nlw2_6d7PvlHZ5.svg" style="max-width:100%;">
+  <img alt="GitHub contagem de linguagens" src="https://img.shields.io/github/languages/count/grioos/proffy-discovery?color=%2304D361">
+
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/grioos/proffy-discovery">
+
+  <a href="https://github.com/grioos/README-proffy-discovery/commits/master">
+    <img alt="GitHub último commit" src="https://img.shields.io/github/last-commit/grioos/proffy-discovery?color=%4d0000">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-8622f8">
+   <a href="https://github.com/grioos/proffy-discovery/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/grioos/proffy-discovery?style=social">
+  </a>
+
 </p>
-<h2>
-  <a id="user-content--índice" class="anchor" aria-hidden="true" href="#-índice">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-    </svg>
-  </a>
-  <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> Índice
-</h2>
-  <ul>
-   <li>
-      <a href="#-Sobre">Sobre</a>
-    </li>
-    <li>
-      <a href="#-Tecnologias-utilizadas">Tecnologias utilizadas</a>
-    </li>
-    <li>
-      <a href="#-Preview">Preview</a>
-    </li>
-  </ul>
-<hr></hr>
 
-<h2>
+<h1 align="center">
+    <img alt="NextLevelWeek#02" title="#NextLevelWeek#02" src="/public/images/home-page.png" />
+</h1>
+
+<h4 align="center"> 
+	🚧  Proffy 🏫 Concluído 🚧
+</h4>
+
+<p align="center">
+	<a href="#-sobre-o-projeto">Sobre</a> •
+	<a href="#-layout">Layout</a> • 
+ 	<a href="#-como-executar-o-projeto">Como executar</a> • 
+  <a href="#-tecnologias">Tecnologias</a> • 
+ 	<a href="#-autor">Autor</a> • 
+ 	<a href="#user-content--licença">Licença</a>
 </p>
-  <a id="user-content--sobre" class="anchor" aria-hidden="true" href="#-sobre">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-    </svg>
-  </a>
-  <g-emoji class="g-emoji" alias="book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png">📖</g-emoji> Sobre
-</h2>
-  <p>Este é um projeto desenvolvido durante a <strong><a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #2</a></strong>
-  , realizada pela <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> durante os dias 3 à 9 de Agosto de 2020.
-<hr></hr>
 
-<h2>
-  <a id="user-content--tecnologias-utilizadas" class="anchor" aria-hidden="true" href="#-tecnologias-utilizadas">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-    </svg>
-  </a>  
-  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Tecnologias utilizadas
-</h2>
-<p>O projeto foi desenvolvido utilizando as seguintes tecnologias</p>
-  <ul>
-   <li>CSS</li>
-   <li>HTML</li>
-   <li>JavaScript</li>
-   <li>Node.js</li>
-   <li>Nunjucks</li>
-   <li>SQlite</li>
-  </ul>
-</p>Desenvolvido por Claudenizio Dias Alves Filho</p>
-<hr></hr>
 
-<h2>
-  <a id="user-content--preview" class="anchor" aria-hidden="true" href="#-preview">
-    <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
-      <path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path>
-    </svg>
-  </a>
-  <g-emoji class="g-emoji" alias="desktop_computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png">🖥</g-emoji> Preview
-</h2>
-<p>
+## 💻 Sobre o projeto
+
+🏫 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
+
+Projeto desenvolvido durante a **NLW - Next Level Week#02** oferecida pela [Rocketseat](https://rocketseat.com.br/).
+
+---
+
+## 🎨 Layout
+
+###  Página de listagem dos professores
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/public/images/study-page.png" width="100%">
+</p>
+
+###  Página de cadastro dos professores
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  	<img alt="Página de cadastro de vídeo" src="/public/images/give-classes-fullpage.png" width="100%">
+</p>
+
+---
+
+## 🚀 Como executar o projeto
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+#### 🧭 Rodando a aplicação
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/bielhoks/Next-Level-Week-2.git
+
+# Acesse a pasta do projeto no seu vscode
+$ cd proffy-discovery
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação 
+$ npm start
+
+# O servidor inciará na porta:5500 - acesse http://localhost:5500 
+```
+
+---
+
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
+- **[Express](https://expressjs.com/)**
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[JavaScript](https://www.javascript.com)**
+- **[NodeJS](https://nodejs.org/en/)**
+- **[Nodemon](https://github.com/remy/nodemon)**
+- **[Nunjucks](https://github.com/mozilla/nunjucks)**
+- **[SQLite](https://www.sqlite.org/index.html)**
+- **[Sqlite-async](https://www.npmjs.com/package/sqlite-async)**
+
+> Veja o arquivo  [package.json](https://github.com/bielhoks/Next-Level-Week-2/blob/master/package.json)
+
+---
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+---
+
+## 🦸 Autor
+
+ <img style="border-radius: 50%;" src="https://avatars1.githubusercontent.com/u/59897643?s=400&u=a07606a55662f4885a634dfe18f6347a30b4752a&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Gabriel Tellaroli Ramos</b></sub> 🚀
+ <br />
+
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tellaroli-ramos-0b959a186)](https://www.linkedin.com/in/gabriel-tellaroli-ramos-0b959a186) 
+
+---
+
+## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENSE.md).
+
+Feito por Gabriel Tellaroli Ramos 👋🏻 [Entre em contato!](https://www.linkedin.com/in/gabriel-tellaroli-ramos-0b959a186)
