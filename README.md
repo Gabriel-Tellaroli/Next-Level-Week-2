@@ -85,7 +85,7 @@ $ cd proffy-discovery
 $ npm install
 
 # Execute a aplicação 
-$ npm start
+$ npm run dev
 
 # O servidor inciará na porta:5500 - acesse http://localhost:5500 
 ```
